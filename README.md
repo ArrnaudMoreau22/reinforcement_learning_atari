@@ -19,7 +19,11 @@ Voici un aperçu des performances de l'agent après un entraînement complet.
 
 **Vidéo de la meilleure exécution :**
 
-[![Vidéo de la meilleure exécution](doc/best_run_doubleDQN&Dueling.mp4)](doc/best_run_doubleDQN&Dueling.mp4)
+<video width="640" controls>
+  <source src="https://github.com/ArrnaudMoreau22/reinforcement_learning_atari/blob/main/doc/best_run_doubleDQN%26Dueling.mp4)" type="video/mp4">
+</video>
+``` :contentReference[oaicite:8]{index=8}.
+
 
 *Cliquez sur la vidéo ci-dessus pour la visualiser.*
 

@@ -19,7 +19,7 @@ Voici un aperçu des performances de l'agent après un entraînement complet.
 
 **Vidéo de la meilleure exécution :**
 
-https://github.com/user-attachments/assets/70c6d93e-b58c-4e1b-bc1c-d466cca17088
+![](https://github.com/user-attachments/assets/70c6d93e-b58c-4e1b-bc1c-d466cca17088)
 
 -----
 
